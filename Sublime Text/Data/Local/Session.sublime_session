@@ -1,0 +1,1999 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/student-management",
+		"/C/xampp/htdocs/student_management",
+		"/C/xampp/htdocs/enrolment",
+		"/C/xampp/htdocs/enrollment",
+		"/C/xampp/htdocs/laravel",
+		"/C/xampp/htdocs/blog",
+		"/C/Users/Erfan Ali/Downloads/portfolio",
+		"/E/• WEB PROJECTS/dating",
+		"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site",
+		"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo",
+		"/I/$Work Area/Borno",
+		"/I/$Work Area/Bonno",
+		"/J/$Work Area/Bonno",
+		"/E/$Work Area/Bonno",
+		"/C/Users/Erfan Ali/Documents/Bongo Template"
+	],
+	"last_version": 3208,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 489.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"copy",
+						"copyright\t(misc.php)"
+					],
+					[
+						"in",
+						"includes\tabc"
+					],
+					[
+						"facebo",
+						"facebook_link\tabc"
+					],
+					[
+						"get_serc",
+						"get_search_form\tWP Function"
+					],
+					[
+						"the_dat",
+						"get_the_date\tWP Function"
+					],
+					[
+						"get_a",
+						"get_avatar\tWP Function"
+					],
+					[
+						"ude",
+						"udemy_site\t(single.php)"
+					],
+					[
+						"udem",
+						"udemy_site\t(setup.php)"
+					],
+					[
+						"author_",
+						"auhtor_URL\tabc"
+					],
+					[
+						"author",
+						"author_ID\tabc"
+					],
+					[
+						"bongo",
+						"bongoCorpo_sidebar\tabc"
+					],
+					[
+						"img",
+						"img-fluid\tabc"
+					],
+					[
+						"the_post",
+						"the_post_thumbnail\tWP Function"
+					],
+					[
+						"the",
+						"the_permalink\tabc"
+					],
+					[
+						"the_ti",
+						"the_time\t(single.php)"
+					],
+					[
+						"texl",
+						"text-align\tproperty"
+					],
+					[
+						"page",
+						"page-numbers\t(pages.css)"
+					],
+					[
+						"paginat",
+						"pagination-link\tabc"
+					],
+					[
+						"have",
+						"have_posts\tWP Function"
+					],
+					[
+						"navbar",
+						"navbar-collapse\tabc"
+					],
+					[
+						"get",
+						"get_stylesheet_uri\t(functions.php)"
+					],
+					[
+						"fun",
+						"function\tabc"
+					],
+					[
+						"j",
+						"jquery_js\tabc"
+					],
+					[
+						"boo",
+						"bootstrap-4.3.1.css\tabc"
+					],
+					[
+						"te",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"navbarex",
+						"navbar-expand \tBootstrap 4.3 Class"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/student-management/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/SuperAdminController.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/User/index.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/student/index.blade.php",
+				"/C/xampp/htdocs/student-management/public/css/style.css",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/StudentController.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin/welcome.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/student-management/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/xampp/htdocs/student-management/database/migrations/2021_07_30_025239_create_students_table.php",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/student_management/public/css/style.css",
+				"/C/xampp/htdocs/student_management/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/welcome.blade.php",
+				"/C/xampp/htdocs/student_management/public/js/custom.js",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/login.blade.php",
+				"/C/xampp/htdocs/enrolment/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/enrolment/app/Http/Controllers/SuperAdminController.php",
+				"/C/xampp/htdocs/enrolment/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/enrolment/routes/web.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_023122_create_admins_table.php",
+				"/C/xampp/htdocs/enrolment/resources/views/pages/admin/login.blade.php",
+				"/C/xampp/htdocs/enrolment/resources/views/pages/admin/logout.blade.php",
+				"/C/xampp/htdocs/enrolment/config/app.php",
+				"/C/xampp/htdocs/enrolment/app/Providers/AppServiceProvider.php",
+				"/C/xampp/htdocs/enrolment/.env",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_025239_create_students_table.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_034720_create_biodatas_table.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_030341_create_student_bios_table.php",
+				"/C/xampp/htdocs/laravel/routes/web.php",
+				"/C/xampp/htdocs/laravel/resources/views/pages/contact.blade.php",
+				"/C/xampp/htdocs/laravel/index.php",
+				"/C/xampp/htdocs/laravel/config/app.php",
+				"/C/xampp/htdocs/laravel/resources/views/pages/home_page.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master3.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master2.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/laravel/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/laravel/resources/views/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/blog/config/app.php",
+				"/C/xampp/htdocs/blog/resources/views/admin/login.blade.php",
+				"/C/xampp/htdocs/blog/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/blog/routes/web.php",
+				"/C/Users/Erfan Ali/Downloads/portfolio/index.html",
+				"/C/Users/Erfan Ali/Downloads/portfolio/css/style.css",
+				"/C/Users/Erfan Ali/Downloads/portfolio/css/responsive.css",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/front/enqueue.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/sidebar.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/searchform.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/custom-nav-walker.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/widgets.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/setup.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/partials/post/content-excerpt.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/comments.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/404.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/image.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/attachment.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/category.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/date.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/page.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/single.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/index.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/full-width-post.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/full-width-page.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/search.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/functions.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/customizer/social.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/theme-customizer.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/header.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/footer.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/customizer/misc.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/style.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/css/pages.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/single.php",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/single-post.html",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/style.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/header.php",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/index.html",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/css/style.css",
+				"/C/Users/Erfan Ali/Downloads/Compressed/galaxymagblogger-170/GalaxyMag/GalaxyMag-Theme-XML-1.7.0.xml",
+				"/I/$Work Area/Borno/style.css",
+				"/I/$Work Area/Bonno/style.css",
+				"/I/$Work Area/Bonno/index.html",
+				"/E/$Work Area/Bonno/index.html"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"login",
+					"dashboard",
+					">\n",
+					"dashboard",
+					"dashbard",
+					"src=\"",
+					"href=\"",
+					"index.html",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"');"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/",
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/",
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 459.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"copy",
+						"copyright\t(misc.php)"
+					],
+					[
+						"in",
+						"includes\tabc"
+					],
+					[
+						"facebo",
+						"facebook_link\tabc"
+					],
+					[
+						"get_serc",
+						"get_search_form\tWP Function"
+					],
+					[
+						"the_dat",
+						"get_the_date\tWP Function"
+					],
+					[
+						"get_a",
+						"get_avatar\tWP Function"
+					],
+					[
+						"ude",
+						"udemy_site\t(single.php)"
+					],
+					[
+						"udem",
+						"udemy_site\t(setup.php)"
+					],
+					[
+						"author_",
+						"auhtor_URL\tabc"
+					],
+					[
+						"author",
+						"author_ID\tabc"
+					],
+					[
+						"bongo",
+						"bongoCorpo_sidebar\tabc"
+					],
+					[
+						"img",
+						"img-fluid\tabc"
+					],
+					[
+						"the_post",
+						"the_post_thumbnail\tWP Function"
+					],
+					[
+						"the",
+						"the_permalink\tabc"
+					],
+					[
+						"the_ti",
+						"the_time\t(single.php)"
+					],
+					[
+						"texl",
+						"text-align\tproperty"
+					],
+					[
+						"page",
+						"page-numbers\t(pages.css)"
+					],
+					[
+						"paginat",
+						"pagination-link\tabc"
+					],
+					[
+						"have",
+						"have_posts\tWP Function"
+					],
+					[
+						"navbar",
+						"navbar-collapse\tabc"
+					],
+					[
+						"get",
+						"get_stylesheet_uri\t(functions.php)"
+					],
+					[
+						"fun",
+						"function\tabc"
+					],
+					[
+						"j",
+						"jquery_js\tabc"
+					],
+					[
+						"boo",
+						"bootstrap-4.3.1.css\tabc"
+					],
+					[
+						"te",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"navbarex",
+						"navbar-expand \tBootstrap 4.3 Class"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/xampp/htdocs/student-management/routes/web.php",
+					"settings":
+					{
+						"buffer_size": 3204,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/resources/views/layouts/master2.blade.php",
+					"settings":
+					{
+						"buffer_size": 42408,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/resources/views/pages/user/user_edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 1874,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/resources/views/pages/student/student_edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 2954,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/resources/views/pages/auth/user_login.blade.php",
+					"settings":
+					{
+						"buffer_size": 2471,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/app/Http/Controllers/Auth/LoginController.php",
+					"settings":
+					{
+						"buffer_size": 1633,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/student-management/resources/views/pages/admin/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 14258,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/xampp/htdocs/student-management",
+				"/C/xampp/htdocs/student-management/app",
+				"/C/xampp/htdocs/student-management/app/Http",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/Auth",
+				"/C/xampp/htdocs/student-management/app/Models",
+				"/C/xampp/htdocs/student-management/database",
+				"/C/xampp/htdocs/student-management/database/migrations",
+				"/C/xampp/htdocs/student-management/public",
+				"/C/xampp/htdocs/student-management/public/backend",
+				"/C/xampp/htdocs/student-management/public/backend/css",
+				"/C/xampp/htdocs/student-management/resources",
+				"/C/xampp/htdocs/student-management/resources/css",
+				"/C/xampp/htdocs/student-management/resources/views",
+				"/C/xampp/htdocs/student-management/resources/views/layouts",
+				"/C/xampp/htdocs/student-management/resources/views/pages",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin",
+				"/C/xampp/htdocs/student-management/resources/views/pages/auth",
+				"/C/xampp/htdocs/student-management/resources/views/pages/monthlyPay",
+				"/C/xampp/htdocs/student-management/resources/views/pages/student",
+				"/C/xampp/htdocs/student-management/resources/views/pages/superAdmin",
+				"/C/xampp/htdocs/student-management/resources/views/pages/user",
+				"/C/xampp/htdocs/student-management/resources/views/pertials"
+			],
+			"file_history":
+			[
+				"/C/xampp/htdocs/student-management/resources/views/pertials/left-sidebar.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/superAdmin/dashboard.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/student/student_edit.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/monthlyPay/monthlyPay.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/StudentController.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/MonthlyPayController.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/monthlyPay/monthlyPay_edit.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/monthlyPay/monthlyPay_create.blade.php",
+				"/C/xampp/htdocs/student-management/public/backend/css/style.css",
+				"/C/xampp/htdocs/student-management/resources/views/pages/student/student_create.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/user/user_create.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/student/index.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/monthlyPay/monthly_pay.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/auth/monthly_pay.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/user/index.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/auth/user_login.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/Auth/LoginController.php",
+				"/C/xampp/htdocs/student-management/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/student-management/database/migrations/2021_08_05_001741_create_monthly_pays_table.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/UserController.php",
+				"/C/xampp/htdocs/student-management/resources/views/pertials/link.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/auth/user_login.blade.php",
+				"/C/xampp/htdocs/student-management/public/css/style.css",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin/welcome.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/user/user_edit.blade.php",
+				"/C/xampp/htdocs/student-management/app/Models/User.php",
+				"/C/xampp/htdocs/student-management/app/Models/Student.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin/admin_login.blade.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/SuperAdminController.php",
+				"/C/xampp/htdocs/student-management/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/User/index.blade.php",
+				"/C/xampp/htdocs/student-management/resources/views/pages/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/student-management/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/xampp/htdocs/student-management/database/migrations/2021_07_30_025239_create_students_table.php",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/student_management/public/css/style.css",
+				"/C/xampp/htdocs/student_management/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/welcome.blade.php",
+				"/C/xampp/htdocs/student_management/public/js/custom.js",
+				"/C/xampp/htdocs/student_management/resources/views/pages/admin/login.blade.php",
+				"/C/xampp/htdocs/enrolment/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/enrolment/app/Http/Controllers/SuperAdminController.php",
+				"/C/xampp/htdocs/enrolment/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/enrolment/routes/web.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_023122_create_admins_table.php",
+				"/C/xampp/htdocs/enrolment/resources/views/pages/admin/login.blade.php",
+				"/C/xampp/htdocs/enrolment/resources/views/pages/admin/logout.blade.php",
+				"/C/xampp/htdocs/enrolment/config/app.php",
+				"/C/xampp/htdocs/enrolment/app/Providers/AppServiceProvider.php",
+				"/C/xampp/htdocs/enrolment/.env",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_025239_create_students_table.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_034720_create_biodatas_table.php",
+				"/C/xampp/htdocs/enrolment/database/migrations/2021_07_30_030341_create_student_bios_table.php",
+				"/C/xampp/htdocs/laravel/routes/web.php",
+				"/C/xampp/htdocs/laravel/resources/views/pages/contact.blade.php",
+				"/C/xampp/htdocs/laravel/index.php",
+				"/C/xampp/htdocs/laravel/config/app.php",
+				"/C/xampp/htdocs/laravel/resources/views/pages/home_page.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master3.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master2.blade.php",
+				"/C/xampp/htdocs/laravel/resources/views/layouts/master.blade.php",
+				"/C/xampp/htdocs/laravel/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/laravel/resources/views/admin/dashboard.blade.php",
+				"/C/xampp/htdocs/blog/config/app.php",
+				"/C/xampp/htdocs/blog/resources/views/admin/login.blade.php",
+				"/C/xampp/htdocs/blog/app/Http/Controllers/AdminController.php",
+				"/C/xampp/htdocs/blog/routes/web.php",
+				"/C/Users/Erfan Ali/Downloads/portfolio/index.html",
+				"/C/Users/Erfan Ali/Downloads/portfolio/css/style.css",
+				"/C/Users/Erfan Ali/Downloads/portfolio/css/responsive.css",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/front/enqueue.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/sidebar.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/searchform.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/custom-nav-walker.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/widgets.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/setup.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/partials/post/content-excerpt.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/comments.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/404.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/image.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/attachment.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/category.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/date.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/page.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/single.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/index.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/full-width-post.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/full-width-page.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/search.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/functions.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/customizer/social.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/theme-customizer.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/header.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/footer.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/includes/customizer/misc.php",
+				"/C/xampp/htdocs/udemy_site/wp-content/themes/udemy_site/style.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/css/pages.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/single.php",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/single-post.html",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/style.css",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/header.php",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/index.html",
+				"/C/xampp/htdocs/bongoCorpo/wp-content/themes/bongocorpo/css/style.css",
+				"/C/Users/Erfan Ali/Downloads/Compressed/galaxymagblogger-170/GalaxyMag/GalaxyMag-Theme-XML-1.7.0.xml",
+				"/I/$Work Area/Borno/style.css",
+				"/I/$Work Area/Bonno/style.css",
+				"/I/$Work Area/Bonno/index.html",
+				"/E/$Work Area/Bonno/index.html"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"Doglas",
+					"DASHBOARD",
+					"href=\"",
+					"src=\"",
+					"login",
+					"dashboard",
+					">\n",
+					"dashboard",
+					"dashbard",
+					"src=\"",
+					"href=\"",
+					"index.html",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"');"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"href=\"{{asset('public/frontend')}}/",
+					"src=\"{{asset('public/frontend')}}/",
+					"href=\"{{asset('public/frontend')}}/",
+					"src=\"{{asset('public/frontend')}}/",
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/",
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/",
+					"src=\"{{asset('public/backend')}}/",
+					"href=\"{{asset('public/backend')}}/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\xampp\\htdocs\\student-management"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/student-management/routes/web.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3204,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										805,
+										805
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												805,
+												806
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												789,
+												790
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 162.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/student-management/resources/views/layouts/master2.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 42408,
+								"regions":
+								{
+									"col_0000000F":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												23865,
+												23880
+											]
+										],
+										"scope": "col_0000000F"
+									},
+									"col_0000000F_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_0000000F_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_00000019":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												23838,
+												23852
+											]
+										],
+										"scope": "col_00000019"
+									},
+									"col_00000019_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_00000019_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_1A202CFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												24488,
+												24495
+											],
+											[
+												25604,
+												25611
+											]
+										],
+										"scope": "col_1A202CFF"
+									},
+									"col_1A202CFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_1A202CFF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_2D3748FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												25495,
+												25502
+											]
+										],
+										"scope": "col_2D3748FF"
+									},
+									"col_2D3748FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_2D3748FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_4A5568FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												24400,
+												24407
+											],
+											[
+												25717,
+												25724
+											]
+										],
+										"scope": "col_4A5568FF"
+									},
+									"col_4A5568FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_4A5568FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_718096FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												24310,
+												24317
+											]
+										],
+										"scope": "col_718096FF"
+									},
+									"col_718096FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_718096FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A0AEC0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												24220,
+												24227
+											]
+										],
+										"scope": "col_A0AEC0FF"
+									},
+									"col_A0AEC0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A0AEC0FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_CBD5E0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												24130,
+												24137
+											],
+											[
+												25910,
+												25917
+											]
+										],
+										"scope": "col_CBD5E0FF"
+									},
+									"col_CBD5E0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_CBD5E0FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_E2E8F0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												22470,
+												22477
+											],
+											[
+												24040,
+												24047
+											]
+										],
+										"scope": "col_E2E8F0FF"
+									},
+									"col_E2E8F0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_E2E8F0FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_EDF2F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												22852,
+												22859
+											],
+											[
+												23950,
+												23957
+											]
+										],
+										"scope": "col_EDF2F7FF"
+									},
+									"col_EDF2F7FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_EDF2F7FF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_EF3B2DFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												27259,
+												27266
+											]
+										],
+										"scope": "col_EF3B2DFF"
+									},
+									"col_EF3B2DFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_EF3B2DFF_circle.png",
+										"regions":
+										[
+											[
+												27202,
+												27202
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F7FAFCFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												22742,
+												22749
+											]
+										],
+										"scope": "col_F7FAFCFF"
+									},
+									"col_F7FAFCFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F7FAFCFF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												22639,
+												22643
+											],
+											[
+												25817,
+												25821
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									},
+									"col_FFFFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+										"regions":
+										[
+											[
+												22009,
+												22009
+											]
+										],
+										"scope": "col_gutter"
+									}
+								},
+								"selection":
+								[
+									[
+										39826,
+										39826
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 14038.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/xampp/htdocs/student-management/resources/views/pages/user/user_edit.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1874,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1862,
+										1862
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 864.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/xampp/htdocs/student-management/resources/views/pages/student/student_edit.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2954,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2942,
+										2942
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/xampp/htdocs/student-management/resources/views/pages/auth/user_login.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										89,
+										89
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/xampp/htdocs/student-management/app/Http/Controllers/Auth/LoginController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1633,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										496,
+										496
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												496,
+												497
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												488,
+												489
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/xampp/htdocs/student-management/resources/views/pages/admin/welcome.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14258,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										85,
+										85
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,654,4,105,1186",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 280.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
